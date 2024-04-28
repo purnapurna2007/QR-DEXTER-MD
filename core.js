@@ -45,5 +45,5 @@ function start(file, ...args) {
   });
 }
 
-start('wasi.js');
+start('dexter.html');
      
